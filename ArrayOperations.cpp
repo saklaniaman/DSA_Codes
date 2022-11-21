@@ -1,4 +1,3 @@
-1. Array Operations
 
 #include <stdio.h>
  
